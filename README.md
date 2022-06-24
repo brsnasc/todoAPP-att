@@ -1,2 +1,2 @@
-# todoAndroid-GETPOST
-Adicionando e Listando Tarefas no To Do.
+# todoAPP #7
+Atualização de Arquivos e Correção de Erros.
