@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/listFragment"
-        android:name="com.generation.todoapplication.ListFragment"
+        android:name="com.generation.JustDoItList.ListFragment"
         android:label="fragment_list"
         tools:layout="@layout/fragment_list" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/formFragment"
-        android:name="com.generation.todoapplication.FormFragment"
+        android:name="com.generation.JustDoItList.FormFragment"
         android:label="fragment_form"
         tools:layout="@layout/fragment_form" >
         <action
